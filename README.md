@@ -1,2 +1,0 @@
-# totoro
-study and practice
